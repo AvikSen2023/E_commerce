@@ -13,10 +13,6 @@
 ## Features
 - CRUD Operations
 - Entity Relationships
-- Optional Enhancements:
-    - Named Queries
-    - Soft Delete
-    - Pagination
 
 ## Author
-Sk Mahammad Afzal
+Avik Sen 
